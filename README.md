@@ -1,2 +1,2 @@
 # HexConverter
-This little program will make a 
+This little program will convert a number to hex
